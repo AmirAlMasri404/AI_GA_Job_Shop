@@ -1,0 +1,22 @@
+======================================================================
+  MANUFACTURING PLANT JOB SHOP OPTIMIZATION REPORT
+======================================================================
+  * Total Jobs:            1
+  * Total Machines:        1
+  * Optimal Makespan:      76 time units
+  * Initial Makespan:      76 time units
+  * Makespan Reduction:    -0 units (0.00%)
+  * Population Size:       100
+  * Total Generations:     200
+  * Crossover Rate:        0.85
+  * Mutation Rate:         0.15
+======================================================================
+
+--- MACHINE UTILIZATION BREAKDOWN ---
+  Machine  1: 100.00% active
+
+--- DETAILED OPERATION SCHEDULE ---
+  Machine      Job        Operation      Start      End        Duration  
+  ------------------------------------------------------------------
+  M1           Job_1      Op 1           0          76         76        
+======================================================================
